@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Athanasiamo/Athanasiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 😄 Pronouns: She/Her
-- 📫 How to reach me: 
+- Pronouns: She/Her
+- How to reach me: 
   - twitter: [@DrMowinckels](https://twitter.com/DrMowinckels/)
   - website: [DrMowinckels](www.drmowinckels.io)
 
